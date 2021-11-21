@@ -1,3 +1,7 @@
+```
+docker build -t paymongo/openapi-generator-cli .
+```
+
 <h1 align="center">OpenAPI Generator</h1>
 
 
